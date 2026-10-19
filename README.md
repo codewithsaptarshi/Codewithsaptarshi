@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Saptarshi Biswas! 👋 
 
-<!--
-**codewithsaptarshi/Codewithsaptarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-Here are some ideas to get you started:
+I am an aspiring **Tech Entrepreneur** and student developer from Barrackpore, West Bengal. I study in Class 9 (English Medium) at **Ramakrishna Vivekananda Mission Gopal Govinda Academy**. I love leveraging logical frameworks and AI ecosystems to build real-world software utilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Flagship Project: SARATHI (The Student Companion App)
+**Sarathi** is a smart utility application designed to help fellow students seamlessly build exam schedules and daily timetables to boost productivity.
+
+* 🌐 **Live Link:** [https://netlify.app](https://netlify.app)
+* 🛠️ **Tech Pipeline:** HTML5, CSS3, JavaScript & Logic Structuring assisted by OpenAI ChatGPT.
+* ☁️ **Hosting:** Netlify Cloud Hosting.
+
+---
+
+### 💻 Technical Expertise & Setup
+* **Favorite Subjects:** Computer Science, Physics, Mathematics & Logic.
+* **Development Stack:** Core Ideation, Advanced Prompt Engineering, HTML5, CSS3, and Foundational JavaScript.
+* **Workstation Details:** Conceived and deployed using my *Samsung Galaxy A14 5G* and *Intel Custom Desktop Workspace*.
+
+---
+
+### 🎯 Vision & Future Roadmap
+* **❄️ Winter Initiative (Dec 2026):** Moving towards fully independent software development by learning **Python Programming** under *Coder & Acco Tax*.
+* **🏆 Ultimate Ambition:** To become a Tech Entrepreneur and Startup Founder.
+
+---
+
+### 🎨 Co-Curriculars & Personal Interests
+* **Talents:** Creative Sketching (Consolation Prize Winner), Vocal Singing, and Yoga Practice.
+* **Sports & Gaming:** Die-hard fan of **MS Dhoni** (Cricket) and **Cristiano Ronaldo** (Football). Passionate about playing EA SPORTS FC Mobile.
+* **Favorite Fuel 🍛:** Always up for a plate of Biryani!
+
+---
+
+### 📫 Let's Connect
+* **Project Dashboard:** [Sarathi on Netlify](https://netlify.app)
+* **Location:** Barrackpore, West Bengal, India.
+
+*"Logic will get you from A to B. Imagination will take you everywhere."*
+
