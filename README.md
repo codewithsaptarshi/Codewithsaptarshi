@@ -1,10 +1,9 @@
 # Hi there, I'm Saptarshi Biswas! 👋 
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+* 🎯 **Age & Role:** 15 Years | Class 9 Student Developer
+* 📍 **Location:** Barrackpore, West Bengal, India
+* 🏫 **Institution:** Ramakrishna Vivekananda Mission Gopal Govinda Academy
+
 
 I am an aspiring **Tech Entrepreneur** and student developer from Barrackpore, West Bengal. I study in Class 9 (English Medium) at **Ramakrishna Vivekananda Mission Gopal Govinda Academy**. I love leveraging logical frameworks and AI ecosystems to build real-world software utilities.
 
